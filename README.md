@@ -1,4 +1,3 @@
-< img src="image/cat.gif" alt="可爱的猫咪" width="300">
 
 
 <div align="center">
