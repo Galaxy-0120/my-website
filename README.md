@@ -18,3 +18,5 @@
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Galaxy.
+
+### Code is poetry, the terminal is a canvas, and the kernel is as free as the soul. I love tinkering, fear no refactoring, and enjoy the process of starting from scratch each time. I write love letters in Nvim 💌, track heartbeats with Git❤️‍🔥  — life is like an anime series, with every season worth looking forward to 🌸.
