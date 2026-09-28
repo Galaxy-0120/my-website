@@ -16,7 +16,3 @@
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Galaxy.
-
-## GitHub Stats
-
-![Galaxy-0120's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galaxy-0120&show_icons=true&theme=radical)
