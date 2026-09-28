@@ -2,7 +2,6 @@
   <img src="image/cat.gif" alt="猫咪动图" width="300">
 </p>
 
-
 <div align="center">
 
 ![Modern C++ template][github-sub-title:img]
