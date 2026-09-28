@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image/cat.gif" alt="猫咪动图" width="300">
-</p>
+< img src="image/cat.gif" alt="可爱的猫咪" width="300">
 
 
 <div align="center">
